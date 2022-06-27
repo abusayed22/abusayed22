@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abusayed22
-- 👀 I’m interested in passionte technology
+- 👀 Code & programming is enjoyble part of particular life
 - 🌱 I’m currently learning && interested job
+- Take a risk make a part of life
 - https://twitter.com/In22Abusayed
 - https://www.linkedin.com/in/abu-sayed-093014232/
 
