@@ -7,7 +7,7 @@
 
 * `Set fix goal && proceed but within passion and hard struggle` -->
 
-<h1 align="center">Hi 👋, I'm Abu Sayed</h1>
+<h1 align="center">Hi 👋, I'm Abu Sayed Rabbi</h1>
 <h3 align="center">Code & programming is enjoyable of my life & is for passionate carrier</h3>
 
 
