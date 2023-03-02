@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m @abusayed22
 - 👀 Code & programming is enjoyble part of particular life
-- 🌱 I’m currently learning && interested job
+
 - Take a risk make a part of life
 - https://twitter.com/In22Abusayed
 - https://www.linkedin.com/in/abu-sayed-093014232/
@@ -8,10 +8,11 @@
 * `Set fix goal && proceed but within passion and hard struggle` -->
 
 <h1 align="center">Hi 👋, I'm Abu Sayed</h1>
-<h3 align="center">Code & programming is enjoyable of my life & i fell is for passionate carrier</h3>
+<h3 align="center">Code & programming is enjoyable of my life & is for passionate carrier</h3>
 
 - 🔭 I’m currently working on a blogging app [myBlog](https://github.com/abusayed22/my-blog)
-
+- 🌱 I’m currently learning && interested job
+- 👀 I am fully excited for learning day by day div programming 
 - It's my first project when learn css [Iqbal piling & constructions](https://iqbalpiling.com/)
 
 <h3 align="left">Connect with me:</h3>
