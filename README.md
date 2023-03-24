@@ -13,8 +13,9 @@
 
 - 🌱 I’m currently learning && interested job
 - 👀 I am fully excited for learning day by day div programming 
-- 🔭 I’m currently working on a blogging app : [myBlog](https://github.com/abusayed22/my-blog)
+- 🔭 I’m currently working on a blogging app : 
 - 🔭 It's my first project when learned css : [Iqbal piling & constructions](https://iqbalpiling.com/)
+- 🔭 Blog project : https://myblog-hobby.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
