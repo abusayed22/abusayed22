@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning && interested job
 - 👀 I am fully excited for learning day by day div programming 
-- 🔭 I’m currently working on a blogging app : 
+- 🔭 I’m currently working on a e-commerce app : 
 - 🔭 It's my first project when learned css : [Iqbal piling & constructions](https://iqbalpiling.com/)
 - 🔭 Blog project : https://myblog-hobby.netlify.app/
 
